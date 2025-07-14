@@ -22,6 +22,6 @@ Edit
 git init
 git add .
 git commit -m "Initial commit - Dual hand audio control project"
-git remote add origin https://github.com/YOUR_USERNAME/HandControlAudio-DJ.git
+git remote add origin https://github.com/Akif2206/HandControlAudio
 git branch -M main
 git push -u origin main
